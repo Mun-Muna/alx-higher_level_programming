@@ -1,4 +1,4 @@
-#!/usr/bin/px_thon3
+#!/usr/bin/python3
 def add_tuple(tuple_a=(), tuple_b=()):
     if not tuple_a:
         x, x_ = 0, 0
